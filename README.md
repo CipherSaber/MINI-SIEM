@@ -1,4 +1,3 @@
-```markdown
 # Mini-SIEM: Real-Time Threat Monitoring Dashboard
 
 A lightweight Security Information and Event Management (SIEM) system built with Python for cybersecurity education and threat detection.
@@ -114,8 +113,3 @@ For questions or feedback, please reach out via GitHub issues or contact [your-e
 _Last updated: September 2025_
 
 ```
-
-
-[7](https://tilburgsciencehub.com/topics/collaborate-share/share-your-work/content-creation/readme-best-practices/)
-[8](https://www.makeareadme.com)
-[9](https://utrechtuniversity.github.io/workshop-computational-reproducibility/chapters/readme-files.html)
